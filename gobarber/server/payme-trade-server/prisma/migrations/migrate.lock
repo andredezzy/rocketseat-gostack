@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20200717072444-add-referral-id-field-to-profile-model
+20200717072748-alter-referral-id-field-set-unique
+20200721231532-add-available-field-to-signal-model
